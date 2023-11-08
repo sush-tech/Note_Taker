@@ -14,5 +14,8 @@
     "uuid": "^9.0.0"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "",
+  "engines": {
+    "node": "20.x"
+  }
 }
